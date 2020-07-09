@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 #### I'm Shiyao Xu. 
 
-- 👧🏻 I'm currently a master student in the Wangxuan Institute of Computer Technology ([WICT](http://www.icst.pku.edu.cn/)), Peking University.
-- 👩🏻‍💻 I’m a member of the [CSCL](http://59.108.48.27/cscl/) group at the Institute of Computer Science and Technology.
-- 😎 My research interest lies in Computer Vision and Graphics. 
+👧🏻 I'm currently a master student in the Wangxuan Institute of Computer Technology ([WICT](http://www.icst.pku.edu.cn/)), Peking University.
+
+👩🏻‍💻 I’m a member of the [CSCL](http://59.108.48.27/cscl/) group at the Institute of Computer Science and Technology.
+
+😎 My research interest lies in Computer Vision and Graphics. 
