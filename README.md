@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 👩🏻‍💻 I’m a member of the [CSCL](http://59.108.48.27/cscl/) group at the Institute of Computer Science and Technology.
 
 😎 My research interest lies in Computer Vision and Graphics. 
+
+<img align="down" src="https://github-readme-stats.vercel.app/api?username=41xu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=false&count_private=true" />
+
