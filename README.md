@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 #### I'm Shiyao Xu. 
 
-👧🏻 I'm currently a master student in the Wangxuan Institute of Computer Technology ([WICT](http://www.icst.pku.edu.cn/)), Peking University.
+👧🏻 I'm currently a master student in the Wangxuan Institute of Computer Technology ([WICT](http://www.icst.pku.edu.cn/)), Peking University. Also an incoming Ph.D. at [Inria](https://www.inria.fr/en), Rennes. 
 
-👩🏻‍💻 I’m a member of the [CSCL](http://59.108.48.27/cscl/) group at the Institute of Computer Science and Technology.
+👩🏻‍💻 More details can be found on [my website](https://xusy2333.com) 👈🏻
 
-😎 My research interest lies in Computer Vision and Graphics. 
+😎 My research interest lies in Computer Vision and Graphics. I would like to build the bridge between 2D and 3D world. 
 
 <img align="down" src="https://github-readme-stats.vercel.app/api?username=41xu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=false&count_private=true" />
 
