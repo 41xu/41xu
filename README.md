@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm Shiyao Xu. 
 
-👧🏻 I'm currently a master student in the Wangxuan Institute of Computer Technology ([WICT](http://www.icst.pku.edu.cn/)), Peking University. Also an incoming Ph.D. at [Inria](https://www.inria.fr/en), Rennes. 
-
+👧🏻 I'm currently a master student in the Wangxuan Institute of Computer Technology ([WICT](http://www.icst.pku.edu.cn/)), Peking University.
 👩🏻‍💻 More details can be found on [my website](https://xusy2333.com) 👈🏻
 
 😎 My research interest lies in Computer Vision and Graphics. I would like to build the bridge between 2D and 3D world. 
