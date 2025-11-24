@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm Shiyao Xu. 
 
-👧🏻 I'm now a 1st-year ELLIS PhD student at [MHUG](https://mhug.disi.unitn.it/), University of Trento, Italy, supervised by [Prof. Paolo Rota](https://paolorota.github.io/) and [Prof. Gül Varol(ENPC)](https://gulvarol.github.io/).
+👧🏻 I'm now a 2nd-year ELLIS PhD student at [MHUG](https://mhug.disi.unitn.it/)(UniTN) and [IMAGINE](https://imagine-lab.enpc.fr/)(ENPC), supervised by [Prof. Paolo Rota](https://paolorota.github.io/) and [Prof. Gül Varol](https://gulvarol.github.io/).
 I obtained my MS degree from [WICT](http://www.icst.pku.edu.cn/), Peking University, June 2023, supervised by [Prof. Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/).
 
 👩🏻‍💻 More details can be found on [my website](https://xusy2333.com) 👈🏻
